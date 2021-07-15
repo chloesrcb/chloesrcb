@@ -9,7 +9,7 @@
 
 ### Stats
 <p align="center" href="https://github.com/chloesrcb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chloesrcb&show_icons=true&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chloesrcb&show_icons=true&theme=vue-dark" />&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloesrcb&layout=compact&theme=vue-dark&hide=jupyter%20notebook" />
 </a>
 
