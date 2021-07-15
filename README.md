@@ -18,11 +18,11 @@
 
 <p align="center">
 
-[![Cox Model](https://github-readme-stats.vercel.app/api/pin/?username=jlidoine&repo=projet_Cox&theme=vue-dark)](https://github.com/jlidoine/projet_Cox)
-
 [![CovidViz](https://github-readme-stats.vercel.app/api/pin/?username=jihene-b3&repo=covidviz&theme=vue-dark)](https://github.com/jihene-b3/covidviz)
 
 [![Bike Challenge](https://github-readme-stats.vercel.app/api/pin/?username=chloesrcb&repo=bike_challenge&theme=vue-dark)](https://github.com/chloesrcb/bike_challenge)
+ 
+[![Cox Model](https://github-readme-stats.vercel.app/api/pin/?username=jlidoine&repo=projet_Cox&theme=vue-dark)](https://github.com/jlidoine/projet_Cox)
     
 </p>
 
