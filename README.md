@@ -15,11 +15,11 @@
 ### Last projects 
 
 
-[![Cox Model](https://github-readme-stats.vercel.app/api/pin/?username=jlidoine&repo=projet_Cox&theme=vue-dark&bg_color=00000000)](https://github.com/jlidoine/projet_Cox)
+[![Cox Model](https://github-readme-stats.vercel.app/api/pin/?username=jlidoine&repo=projet_Cox&theme=vue-dark&bg_color=00000000&text_color=58a6ff)](https://github.com/jlidoine/projet_Cox)
 
-[![CovidViz](https://github-readme-stats.vercel.app/api/pin/?username=jihene-b3&repo=covidviz&theme=vue-dark&bg_color=00000000)](https://github.com/jihene-b3/covidviz)
+[![CovidViz](https://github-readme-stats.vercel.app/api/pin/?username=jihene-b3&repo=covidviz&theme=vue-dark&bg_color=00000000&text_color=58a6ff)](https://github.com/jihene-b3/covidviz)
 
-[![Bike Challenge](https://github-readme-stats.vercel.app/api/pin/?username=chloesrcb&repo=bike_challenge&theme=vue-dark&bg_color=00000000)](https://github.com/chloesrcb/bike_challenge)
+[![Bike Challenge](https://github-readme-stats.vercel.app/api/pin/?username=chloesrcb&repo=bike_challenge&theme=vue-dark&bg_color=00000000&text_color=58a6ff)](https://github.com/chloesrcb/bike_challenge)
     
 
 
