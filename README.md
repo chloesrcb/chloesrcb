@@ -3,7 +3,14 @@
  
 - ✨ I'm a student in a master's degree in Statistic and Data Science at the University of Montpellier.
 - 📫 How to reach me: chloe.serre-combe@etu.umontpellier.fr
-- You can find me on LinkedIn  [<img align="center" alt="Discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://linkedin.com/in/chloe-serre-combe-886647185)
+- You can find me on : 
+<div style="left: 1000px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+   <a href="https://linkedin.com/in/chloe-serre-combe-886647185" target="_blank" style="display:block;">
+   <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="width: 30px;"/></a>
+   <a href="https://gitlab.com/cserre-combe" target="_blank" style="display:block;">
+   <img align="center" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" style="width: 50px;"/></a>
+</div>
 
 
 ### Stats
