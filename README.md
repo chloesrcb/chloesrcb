@@ -1,8 +1,8 @@
 
 ## Hi 👋, I'm Chloe Serre-Combe
  
-- ✨ I'm a student in a master's degree in Statistic and Data Science at the University of Montpellier.
-- 📫 How to reach me: chloe.serre-combe@etu.umontpellier.fr
+- ✨ I'm a PhD student at the University of Montpellier.
+- 📫 How to reach me: chloe.serre-combe@umontpellier.fr
 - You can find me on : 
 <div style="left: 1000px;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
