@@ -6,7 +6,7 @@
 - 📫 How to reach me: chloe.serre-combe@umontpellier.fr
 - You can find me on : 
 <div align="center">
-  <a href="chloe_sc" target="_blank">
+  <a href="https://discord.com/users/chloe_sc#8185" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=20B0A8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/chloe-serre-combe-886647185" target="_blank">
