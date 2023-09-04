@@ -25,20 +25,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chloesrcb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
 </div> 
 
-### Last projects 
-
-<div align="center">
-  <a href="https://github.com/jlidoine/projet_Cox" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jlidoine&repo=projet_Cox&theme=rose_pine&locale=en&hide_border=true" height="100"   alt="cox project"  />
-  </a>
- <a href="https://github.com/jihene-b3/covidviz" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jihene-b3&repo=covidviz&theme=rose_pine&locale=en&hide_border=true" height="100" alt="covidviz project"  />
-  </a>
- <a href="https://github.com/chloesrcb/bike_challenge" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chloesrcb&repo=bike_challenge&theme=rose_pine&locale=en&hide_border=true" height="100"  alt="bike challenge project"  />
-  </a>
-</div>
-    
-
-
-
