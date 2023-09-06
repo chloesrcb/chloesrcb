@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on *Stochastic generators of extreme precipitation and risk assessment of urban flooding at high spatiotemporal resolution*
 - 📫 How to reach me: chloe.serre-combe@umontpellier.fr
 - [My website](https://chloesrcb.github.io/)
-- You can find me on: 
-<div align="center">
+- You can find me on:
+  <div align="left"> 
   <a href="https://www.linkedin.com/in/chloe-serre-combe-886647185" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=20B0A8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
