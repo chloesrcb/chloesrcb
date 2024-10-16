@@ -2,7 +2,7 @@
 ## Hi 👋, I'm Chloe Serre-Combe
  
 - ✨ I'm a PhD student at the University of Montpellier, under the supervision of [Gwladys Toulemonde](https://imag.umontpellier.fr/~toulemonde/index.html), [Thomas Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz) and [Nicolas Meyer](https://sites.google.com/view/nicolasmeyer/accueil) at Institut Montpelliérain Alexander Grothendieck (IMAG - University of Montpellier) and at Inria Montpellier in the [LEMON team](https://team.inria.fr/lemon/).
-- 🔭 I’m currently working on *Stochastic generators of extreme precipitation and risk assessment of urban flooding at high spatiotemporal resolution*
+- 🔭 I’m currently working on *Stochastic generators of extreme precipitation and risk assessment of urban flooding at high spatio-temporal resolution*
 - 📫 How to reach me: chloe.serre-combe@umontpellier.fr
 - [My website](https://chloesrcb.github.io/)
 - You can find me on:
