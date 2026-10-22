@@ -7,7 +7,7 @@
 
 🔬 My doctoral research focused on:
 
-*Stochastic generators of extreme precipitation and risk assessment of urban flooding at high spatio-temporal resolution.*
+*Stochastic generators of extreme precipitation at high spatio-temporal resolution.*
 
 My thesis was supervised by [Gwladys Toulemonde](https://imag.umontpellier.fr/~toulemonde/index.html), [Thomas Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz), and [Nicolas Meyer](https://sites.google.com/view/nicolasmeyer/accueil).
 
